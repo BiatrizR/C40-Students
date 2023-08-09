@@ -161,7 +161,8 @@ class Game {
   addSprites(){
   
     for(var i = 0; i< numberOfSprites; i++){
-       
+        x = random(width/2 + 150, width/2-150);
+    //adicioanr Y aleatorio
     }
     
   }
